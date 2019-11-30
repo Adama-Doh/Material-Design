@@ -1,0 +1,19 @@
+D:\Project HUB\VB Projects\Material Desgin\bin\Debug\Material Desgin.exe.config
+D:\Project HUB\VB Projects\Material Desgin\bin\Debug\Material Desgin.exe
+D:\Project HUB\VB Projects\Material Desgin\bin\Debug\Material Desgin.pdb
+D:\Project HUB\VB Projects\Material Desgin\bin\Debug\Material Desgin.xml
+D:\Project HUB\VB Projects\Material Desgin\bin\Debug\MaterialSkin.dll
+D:\Project HUB\VB Projects\Material Desgin\obj\Debug\Material Desgin.vbprojAssemblyReference.cache
+D:\Project HUB\VB Projects\Material Desgin\obj\Debug\Material_Desgin.Resources.resources
+D:\Project HUB\VB Projects\Material Desgin\obj\Debug\Material Desgin.vbproj.GenerateResource.cache
+D:\Project HUB\VB Projects\Material Desgin\obj\Debug\Material Desgin.vbproj.CoreCompileInputs.cache
+D:\Project HUB\VB Projects\Material Desgin\obj\Debug\Material Desgin.vbproj.CopyComplete
+D:\Project HUB\VB Projects\Material Desgin\obj\Debug\Material Desgin.exe
+D:\Project HUB\VB Projects\Material Desgin\obj\Debug\Material Desgin.xml
+D:\Project HUB\VB Projects\Material Desgin\obj\Debug\Material Desgin.pdb
+D:\Project HUB\VB Projects\Material Desgin\obj\Debug\Material_Desgin.Register.resources
+D:\Project HUB\VB Projects\Material Desgin\bin\Debug\Material Desgin.exe.manifest
+D:\Project HUB\VB Projects\Material Desgin\bin\Debug\Material Desgin.application
+D:\Project HUB\VB Projects\Material Desgin\obj\Debug\Material Desgin.exe.manifest
+D:\Project HUB\VB Projects\Material Desgin\obj\Debug\Material Desgin.application
+D:\Project HUB\VB Projects\Material Desgin\obj\Debug\Material_Desgin.Login.resources
